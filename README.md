@@ -33,7 +33,7 @@ The task at hand is to predict the price of residential homes based on data from
 3. Example usage
 	- Take a look at our video showing how to use the model.
 
-https://user-images.githubusercontent.com/54101886/201681092-8f542dff-f201-4fec-974e-439eb0c1df5a.mp4
+https://github.com/h587736/Dat158_ML2_GR5-main/blob/main/Usage%20showcase.mp4
 
 
 
