@@ -5,7 +5,7 @@ Group ML_group_5 - Fred Nilsen Christiansen
 1. What your project does
 2. How to install it
 3. Example usage
-4. How to set up the dev enviourment
+4. How to set up the dev environment
 5. How to ship a change
 6. Change Log
 7. Author info
@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/54101886/201681092-8f542dff-f201-4fec-
 
 
 
-4. How to set up the dev enviourment
+4. How to set up the dev environment
 	- We made use of VS Code due to it being very simple and having a great overview of the files currently being worked at. Plus, it also has 	built in 	PowerShell CLI, and has support for Python, Bash, Etc. Simply install VS Code and open the project folder from our repo. 	
 
 
@@ -61,7 +61,7 @@ We could pick between a couple of machine learning problems which all seemed int
 
 If you want to see the tutorial from Alexander Lundervold or his github repo, i will put the links down below:
 
-Github: https://github.com/alu042/DAT158ML/tree/master/a_quick_flask_tutorial (We made use of elements mainly from ex4-ml_and_flask), (outdated link)
+Github: https://github.com/alu042/DAT158-2022/tree/main/a_quick_flask_tutorial (We made use of elements mainly from ex4-ml_and_flask), 
 
 Tutorial: https://skaliy.no/DAT158-ML-21/jupyter/2021/10/09/machine-learning-in-practice.html (two videos at the bottom).
 
